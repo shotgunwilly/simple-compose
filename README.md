@@ -1,1 +1,1 @@
-# simple-compose
+# Super Duper simple-compose

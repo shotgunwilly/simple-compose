@@ -1,1 +1,1 @@
-# simply-compose dev branch v2.0
+# simply-compose dev branch v3.0

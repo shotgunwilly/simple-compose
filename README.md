@@ -1,1 +1,1 @@
-# Super Duper simple-compose
+# simply-compose dev branch v1.0

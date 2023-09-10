@@ -1,9 +1,5 @@
 version: "3"
 
-environment:
-  - RACK_ENV=development
-  - SHOW=true
-  - SESSION_SECRET
 services:
     client:
         image: nginx

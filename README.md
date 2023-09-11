@@ -1,3 +1,3 @@
 # simply-compose dev branch
 
-### Simple compose file example 1
+### Simple compose file example 2
